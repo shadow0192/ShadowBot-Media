@@ -1,0 +1,55 @@
+let handler = m => m
+
+handler.before = function (m) {
+    let user = global.db.data.users[m.sender]
+    let role = (user.level <= 3) ? 'مواطن 👦🏻'
+      : ((user.level >= 3) && (user.level <= 6)) ? 'مواطن 👦🏻'
+      : ((user.level >= 6) && (user.level <= 9)) ? 'شونين 👦🏻🗡️'
+      : ((user.level >= 9) && (user.level <= 12)) ? 'جونين 👦🏻🗡️'
+      : ((user.level >= 12) && (user.level <= 15)) ? 'أنبو 🥷🏻🗡️'
+      : ((user.level >= 15) && (user.level <= 18)) ? 'سانين ⚔️'
+      : ((user.level >= 18) && (user.level <= 21)) ? 'شينوبي 🗡️'
+      : ((user.level >= 21) && (user.level <= 24)) ? 'كراكن هنتر ⚔'
+      : ((user.level >= 24) && (user.level <= 27)) ? 'متدرب 🥷🏻'
+      : ((user.level >= 27) && (user.level <= 30)) ? 'قرصان 🏴‍☠️'
+      : ((user.level >= 30) && (user.level <= 33)) ? 'جندي بحرية 👮🏼‍♀️'
+      : ((user.level >= 33) && (user.level <= 36)) ? 'صائد قراصنة 💀'
+      : ((user.level >= 36) && (user.level <= 39)) ? 'قبطان 👨🏻‍✈️'
+      : ((user.level >= 39) && (user.level <= 42)) ? 'نائب ادميرال 👥'
+      : ((user.level >= 42) && (user.level <= 45)) ? 'ادميرال 🛡'
+      : ((user.level >= 45) && (user.level <= 48)) ? 'كاغي 🎗'
+      : ((user.level >= 48) && (user.level <= 51)) ? 'اوتشيها 🔥'
+      : ((user.level >= 51) && (user.level <= 54)) ? 'شينيغامي 💀'
+      : ((user.level >= 54) && (user.level <= 57)) ? 'سايان 🔥'
+      : ((user.level >= 57) && (user.level <= 60)) ? 'سوبر سايان ✊🏻'
+      : ((user.level >= 60) && (user.level <= 63)) ? 'قاتل تنين 🐲'
+      : ((user.level >= 63) && (user.level <= 66)) ? 'قائد اسطول ☠️'
+      : ((user.level >= 66) && (user.level <= 69)) ? 'الفارس الأسود 🖤'
+      : ((user.level >= 69) && (user.level <= 71)) ? 'ساموراي 🗡️'
+      : ((user.level >= 71) && (user.level <= 74)) ? 'قاتل شياطين 👌🏻'
+      : ((user.level >= 74) && (user.level <= 77)) ? 'وريث هاشيرا 🔥'
+      : ((user.level >= 77) && (user.level <= 80)) ? 'هاشيرا ⚕️'
+      : ((user.level >= 80) && (user.level <= 83)) ? 'قمر ادنى 👿'
+      : ((user.level >= 83) && (user.level <= 86)) ? 'قمر أعلى 👹'
+      : ((user.level >= 86) && (user.level <= 89)) ? 'قائد جمعية الصيادين 🏹'
+      : ((user.level >= 89) && (user.level <= 91)) ? 'مساعد حاكم الدمار 🚀'
+      : ((user.level >= 91) && (user.level <= 94)) ? 'حاكم الدمار 👑'
+      : ((user.level >= 94) && (user.level <= 97)) ? 'نائب قائد فريق 👨‍⚖️'
+      : ((user.level >= 97) && (user.level <= 100)) ? 'قائد فريق ⚔️'
+      : ((user.level >= 100) && (user.level <= 105)) ? 'القائد الأعلى 👹'      
+      : ((user.level >= 105) && (user.level <= 120)) ? 'اسبادا 🔮'
+      : ((user.level >= 120) && (user.level <= 150)) ? 'تارتاروس 👹'
+      : ((user.level >= 150) && (user.level <= 160)) ? 'تنين 🐉'
+      : ((user.level >= 160) && (user.level <= 170)) ? 'ملك التنانين 👑'
+      : ((user.level >= 170) && (user.level <= 185)) ? 'تشيبوكاي 🪝'
+      : ((user.level >= 185) && (user.level <= 200)) ? 'نائب يونكو 💂🏼'
+      : ((user.level >= 200) && (user.level <= 400)) ? 'نائب يونكو 💂🏼'
+      : ((user.level >= 405) && (user.level <= 700)) ? 'حكيم المسارات السته ⚜'
+      : ((user.level >= 700) && (user.level <= 1000)) ? 'ملك القراصنة 👒'
+      : '🔱امبراطور البحار السبعة🔱'
+
+    user.role = role
+    return true
+}
+
+export default handler
