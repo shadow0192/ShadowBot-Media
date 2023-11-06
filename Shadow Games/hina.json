@@ -1,0 +1,526 @@
+[
+  {
+      "question": "لاو",
+      "response": "لاو"
+  },
+  {
+      "question": "ايس",
+      "response": "ايس"
+  },
+  {
+      "question": "لوفي",
+      "response": "لوفي"
+  },
+  {
+      "question": "نامي",
+      "response": "نامي"
+  },
+  {
+      "question": "ويليام",
+      "response": "ويليام"
+  },
+  {
+      "question": "نويل",
+      "response": "نويل "
+  },
+  {
+      "question": "استا",
+      "response": "استا"
+  },
+  {
+      "question": "ايرين",
+      "response": "ايرين"
+  },
+  {
+      "question": "يامي",
+      "response": "يامي"
+  },
+  {
+      "question": "ليفاي",
+      "response": "ليفاي"
+  },
+  {
+      "question": "ميكاسا",
+      "response": "ميكاسا"
+  },
+  {
+      "question": "نوبارا",
+      "response": "نوبارا"
+  },
+  {
+      "question": "ايتاشي",
+      "response": "ايتاشي"
+  },
+  {
+      "question": "ساسكي",
+      "response": "ساسكي"
+  },
+  {
+      "question": "بوروتو",
+      "response": "بوروتو"
+  },
+  {
+      "question": "مادارا",
+      "response": "مادارا"
+  },
+  {
+      "question": "توبي",
+      "response": "توبي"
+  },
+  {
+      "question": "اوبيتو",
+      "response": "اوبيتو"
+  },
+  {
+      "question": "كاكاشي",
+      "response": "كاكاشي"
+  },
+  {
+      "question": "كونوهامارو",
+      "response": "كونوهامارو"
+  },
+  {
+      "question": "بولاف ",
+      "response": "بولاف "
+  },
+  {
+      "question": "كيريتو   ",
+      "response": "كيريتو   " 
+  },
+  {
+      "question": "اسونا ",
+      "response": "اسونا "
+  },
+  {
+      "question": "سيباستيان ",
+      "response": "سيباستيان "
+  },
+  {
+      "question": "كورو ",
+      "response": "كورو "
+  },
+  {
+      "question": "كرولو ",
+      "response": "كرولو "
+  },
+  {
+      "question": "فيتان ",
+      "response": "فيتان "
+  },
+  {
+      "question": "غون ",
+      "response": "غون "
+  },
+  {
+      "question": "كيلوا",
+      "response": "كيلوا"
+  },
+  {
+      "question": "هينا ",
+      "response": "هينا "
+  },
+  {
+      "question": "بياكوغان ",
+      "response": "بياكوغان "
+  },
+  {
+      "question": "هيناتا ",
+      "response": "هيناتا "
+  },
+  {
+      "question": "ايرو",
+      "response": "ايرو"
+  },
+  {
+      "question": "كاغويا ",
+      "response": "كاغويا "
+  },
+  {
+      "question": "كانامي ",
+      "response": "كانامي "
+  },
+  {
+      "question": "تسوموغو ",
+      "response": "تسوموغو "
+  },
+  {
+    "question": "بيتو ",
+      "response": "بيتو "
+  },
+  {
+      "question": "كايتو ",
+      "response": "كايتو "
+  },
+  {
+      "question": "كيد ",
+      "response": "كيد "
+  },
+  {
+      "question": "كيلر ",
+      "response": "كيلر "
+  },
+  {
+      "question": "كورو سينسي",
+      "response": "كورو سينسي"
+  },
+  {
+      "question": " بولات ",
+      "response": "بولات "
+  },
+  {
+      "question": "تاتسومي ",
+      "response": "تاتسومي "
+  },
+  {
+      "question": "كارلوس ",
+      "response": "كارلوس "
+  },
+  {
+      "question": "تسوباسا ",
+      "response": "تسوباسا "
+  },
+  {
+      "question": "هيوغا ",
+      "response": "هيوغا "
+  },
+  {
+      "question": "نيجي ",
+      "response": "نيجي "
+  },
+  {
+      "question": "اينو ",
+      "response": "اينو "
+  },
+  {
+     "question": "ايليينا ",
+      "response": "ايليينا "
+  },
+  {
+     "question": "توكا ",
+      "response": "توكا "
+  },
+  {
+     "question": "توغا ",
+      "response": "توغا "
+  },
+  {
+     "question": "توايس ",
+      "response": "توايس "
+  },
+  {
+     "question": "ماين ",
+      "response": "ماين "
+  },
+  {
+     "question": "جينتل ",
+      "response": "جينتل "
+  },
+  {
+     "question": "ايلي ",
+      "response": "ايلي "
+  },
+  {
+     "question": "ايري ",
+      "response": "ايري "
+  },
+  {
+     "question": "ايليزابيث ",
+      "response": "ايليزابيث "
+  },
+  {
+     "question": "ميليوداس",
+      "response": "ميليوداس"
+  },
+  {
+     "question": "غارا ",
+      "response": "غارا "
+  },
+  {
+    "question": "ناغاتو 』",
+      "response": "ناغاتو "
+  },
+  {
+     "question": "ياهيكو ",
+      "response": "ياهيكو "
+  },
+  {
+     "question": "كونان ",
+      "response": "كونان "
+  },
+  {
+     "question": "توكيتو ",
+      "response": "توكيتو "
+  },
+  {
+     "question": "رينغوكو ",
+      "response": "رينغوكو "
+  },
+  {
+     "question": "ميتسوري ",
+      "response": "ميتسوري "
+  },
+  {
+     "question": "غيو ",
+     "response": "غيو "
+  },
+  {
+     "question": "توميوكا ",
+      "response": "توميوكا "
+  },
+  {
+     "question": "سابيتو ",
+      "response": "سابيتو "
+  },
+  {
+     "question": "ماكومو ",
+      "response": "ماكومو "
+  },
+  {
+     "question": "يوسكي ",
+      "response": "يوسكي "
+  },
+  {
+     "question": "بوسكي ",
+      "response": "بوسكي "
+  },
+  {
+     "question": "نايت اي",
+      "response": "نايت اي"
+   },
+  {
+     "question": "غيومي",
+      "response": "غيومي"
+   },
+  {
+     "question": "تانجيرو ",
+      "response": "تانجيرو "
+   },
+  {
+     "question": "يوريتشي",
+      "response": "يوريتشي"
+   },
+  {
+     "question": "سانيمي",
+      "response": "سانيمي"
+   },
+  {
+     "question": "نيزوكو ",
+      "response": "نيزوكو "
+   },
+  {
+     "question": "شادو",
+      "response": "شادو"
+   },
+  {
+     "question": "اوروكوداكي ",
+      "response": "اوروكوداكي "
+   },
+  {
+     "question": "فيلو ",
+      "response": "فيلو "
+   },
+  {
+     "question": "ناوفومي ",
+      "response": "ناوفومي "
+   },
+  {
+     "question": "كاناو ",
+      "response": "كاناو "
+   },
+  {
+     "question": "تينغن ",
+      "response": "تينغن "
+   },
+  {
+     "question": "اوروتشيمارو",
+      "response": "اوروتشيمارو"
+   },
+  {
+     "question": "رافتاليا ",
+      "response": "رافتاليا "
+   },
+  {
+     "question": "زينو ",
+      "response": "زينو "
+   },
+  {
+     "question": " سيلفر فانغ",
+      "response": " سيلفر فانغ"
+   },
+  {
+     "question": "بانغ ",
+      "response": "بانغ "
+   },
+  {
+     "question": "سويريو ",
+      "response": "سويريو "
+   },
+  {
+     "question": "غارو ",
+      "response": "غارو "
+   },
+  {
+     "question": "باتمان ",
+      "response": "باتمان "
+   },
+  {
+     "question": "جوكر ",
+      "response": "جوكر "
+   },
+  {
+     "question": "فانيتاس ",
+      "response": "فانيتاس "
+   },
+  {
+     "question": "ياماتو",
+      "response": "ياماتو"
+   },
+  {
+     "question": "سيرا ",
+      "response": "سيرا "
+   },
+  {
+     "question": "كوزيت ",
+      "response": "كوزيت "
+   },
+  {
+     "question": "مادلين ",
+      "response": "مادلين "
+   },
+  {
+     "question": "فالجان ",
+      "response": "فالجان "
+   },
+  {
+     "question": "كورفيراك ",
+      "response": "كورفيراك "
+   },
+  {
+     "question": "انجولراس ",
+      "response": "انجولراس "
+   },
+  {
+     "question": "مايكي ",
+      "response": "مايكي "
+   },
+  {
+     "question": "سايتاما ",
+      "response": "سايتاما "
+   },
+  {
+     "question": "فودو ",
+      "response": "فودو "
+   },
+  {
+     "question": "كودو ",
+      "response": "كودو "
+   },
+  {
+     "question": "شيراهوشي ",
+      "response": "شيراهوشي "
+   },
+  {
+     "question": "هارو ",
+      "response": "هارو "
+   },
+  {
+     "question": "هاروهي ",
+      "response": "هاروهي "
+   },
+  {
+     "question": "هيكاري ",
+      "response": "هيكاري "
+   },
+  {
+     "question": "ميونا ",
+      "response": "ميونا "
+   },
+  {
+     "question": "غوجو",
+      "response": "غوجو"
+   },
+  {
+     "question": "يوغي ",
+      "response": "يوغي "
+   },
+  {
+     "question": "ايتادوري ",
+      "response": "ايتادوري "
+   },
+  {
+     "question": "ناتسو ",
+      "response": "ناتسو "
+   },
+  {
+     "question": "غراي ",
+      "response": "غراي "
+   },
+  {
+     "question": "ايرزا ",
+      "response": "ايرزا "
+   },
+  {
+     "question": "لوسي ",
+      "response": "لوسي "
+   },
+  {
+     "question": "كاناي ",
+      "response": "كاناي "
+   },
+  {
+     "question": "هابي ",
+      "response": "هابي "
+   },
+  {
+     "question": "اينو ",
+      "response": "اينو "
+   },
+  {
+     "question": "ساي ",
+      "response": "ساي "
+   },
+  {
+     "question": "ريم ",
+      "response": "ريم "
+   },
+  {
+     "question": "رام ",
+      "response": "رام "
+   },
+  {
+     "question": "بو ",
+      "response": "بو "
+   },
+  {
+     "question": "بي ",
+      "response": "بي "
+   },
+  {
+     "question": "با ",
+      "response": "با "
+   },
+  {
+     "question": "هيسوكا ",
+      "response": "هيسوكا "
+   },
+  {
+     "question": "ماتشي ",
+      "response": "ماتشي "
+   },
+  {
+     "question": "دراغون ",
+      "response": "دراغون "
+   },
+  {
+     "question": "غوكو ",
+      "response": "غوكو "  
+  },
+  {
+     "question": "ديدارا ",
+      "response": "ديدارا "
+   },
+  {
+     "question": "كورابيكا ",
+      "response": "كورابيكا "
+}
+]
